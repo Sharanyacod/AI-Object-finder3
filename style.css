@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+button{
+  font-size: 18px;
+    background-color: navy;
+    color: wheat;
+    border-radius: 25px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top: 230px;
+    box-shadow: 10px 10px 10px white;
+}
+label{
+    color: aliceblue;
+    font-size: 15px;
+}
